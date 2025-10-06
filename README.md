@@ -107,8 +107,13 @@
 
 ### User-flow диаграммы
 
-Описание переходов между части ПС для всех ролей из диаграммы ВИ (название ролей должны совпадать с тем, что указано на c4-модели и диаграмме вариантов использования)
+**User-Flow для роли «Администратор»**
 
+<img width="1861" height="1199" alt="РИОПК-ПЗ-2 user-flow Администратор" src="https://github.com/user-attachments/assets/8b39fef8-0360-432a-9cbc-eeb945ea140f" />
+
+**User-Flow для роли «Менеджер проекта»**
+
+<img width="1862" height="1201" alt="РИОПК-ПЗ-2 user-flow Менеджера" src="https://github.com/user-attachments/assets/569f7d55-fbde-49c8-8394-a05218103592" />
 
 ---
 
